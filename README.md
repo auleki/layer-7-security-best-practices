@@ -75,8 +75,8 @@ This repo aims to **close those gaps** by providing **role-specific guidelines a
 Clone this repo and browse the role-specific folder relevant to your team:
 
 ```bash
-git clone https://github.com/auleki/dev-security-best-practice.git
-cd dev-security-best-practice
+git clone https://github.com/auleki/layer-7-security-best-practices.git
+cd layer-7-security-best-practices
 ```
 
 Each folder includes:
